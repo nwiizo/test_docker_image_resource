@@ -1,1 +1,1 @@
-# test_docker_image_resource
+# Test
